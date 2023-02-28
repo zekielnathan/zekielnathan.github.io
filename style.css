@@ -1,0 +1,89 @@
+body {
+    background-color: #BAD7E9;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+div {
+    font-size: 85px;
+    text-align: center;
+}
+
+.index-2 {
+    font-size: 70px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+img {
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 500px;
+    border-color: #FDD36A;
+    border-width: 10px;
+    border-style: solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+.page {
+    font-size: 50px;
+    color: #4E6E81;
+    text-align: center;
+}
+
+
+.pangalawa {
+    padding-top: 280px;
+    background-image: url(photo.jpg);
+    color: black;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.navigation-bar {
+    background-color: #352d2f;
+    height: 0px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  
+  .navigation-bar li {
+    list-style-type: none;
+    padding: 0px;
+    height: 10px;
+    display: inline;
+  }
+  
+  .navigation-bar li a {
+    color: black;
+    font-size: 25px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 0px;
+    padding: 5px 15px;
+    opacity: 0.7;
+  }
+
+  .tatlo {
+    background-image: url(purple.jpg);
+    font-size: 23px;
+    text-align: center;
+  }
+
+  ul {
+    text-align: left;
+  }
+
+  .last {
+    background-image: url(pink.jpeg);
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+  }
